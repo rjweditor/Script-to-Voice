@@ -45,10 +45,5 @@ Enter the output filename (e.g., output.wav): output.wav
 
 The generated audio file (`output.wav`) will contain the speech based on your input.
 
-## Notes
-
-- The app uses the gTTS library for text-to-speech conversion, and the quality of the generated speech may vary based on the selected voice.
-- For improved and more natural TTS, consider using more advanced TTS services like Amazon Polly or Google Cloud Text-to-Speech.
-
 Enjoy using the Text-to-Speech App!
 ```
